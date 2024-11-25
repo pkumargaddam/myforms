@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/myforms/clientlibs"/>
+    <filter root="/apps/myforms/components"/>
+    <filter root="/apps/myforms/i18n"/>
+    <filter root="/apps/fd/af/theme-clientlibs" mode="merge"/>
+
+</workspaceFilter>
